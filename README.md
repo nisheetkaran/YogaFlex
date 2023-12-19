@@ -28,3 +28,5 @@ Alternatively, you can access the hosted version of the app [here](https://yogaf
 
 <img width="1440" alt="Screenshot 2023-12-19 at 4 34 55 PM" src="https://github.com/nisheetkaran/YogaFlex/assets/77787531/8003c551-236a-4345-877a-2d12f864df41">
 
+## ER DIAGRAM
+![WhatsApp Image 2023-12-18 at 2 59 42 AM](https://github.com/nisheetkaran/YogaFlex/assets/77787531/00fb4867-bf40-401c-ad78-7f10206679e1)
