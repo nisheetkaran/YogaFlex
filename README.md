@@ -40,11 +40,11 @@ Alternatively, you can access the hosted version of the app [here](https://yogaf
 
 ## Node.js Server Setup
 
-To run the Node.js server locally:
+To run the Backend  Node.js server locally:
 
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the server directory (`server/`) in your terminal.
+2. Navigate to `cd backend/`
 3. Install Node.js dependencies: `npm install`
-4. Start the Node.js server: `npm start`
+4. Start the Node.js server: `npm run dev`
 
 This will start the server at a specific port (e.g., `http://localhost:3001`) to handle form submissions and processing.
