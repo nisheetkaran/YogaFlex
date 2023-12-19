@@ -5,7 +5,7 @@ Welcome to Yogaflex - the Yoga Class Enrollment App! This application allows use
 ## Features
 
 - **Form Input Fields:** Collects essential information like name, age, email, selected batch, payment information, and the month of enrollment.
-- **Validation:** Validates age input to ensure it falls within the acceptable range of 18 to 65 years. Along with that we are also checking if the amount paid is 500rs or not!
+- **Validation:** Validates age input to ensure it falls within the acceptable range of 18 to 65 years. Along with that, we are also checking if the amount paid is 500rs or not!
 - **Submission:** Sends enrollment data securely to a server for processing and displays success or failure alerts accordingly.
 
 ## Technologies Used
@@ -20,13 +20,31 @@ Welcome to Yogaflex - the Yoga Class Enrollment App! This application allows use
 To use the app locally:
 
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Access the app in your browser at `http://localhost:3000`
+2. Navigate to the server directory (`server/`) in your terminal.
+3. Install Node.js dependencies: `npm install`
+4. Start the Node.js server: `npm start`
+5. Open a new terminal window, navigate to the root directory, and run:
+   - Install React app dependencies: `npm install`
+   - Start the React development server: `npm start`
+6. Access the app in your browser at `http://localhost:3000`
 
 Alternatively, you can access the hosted version of the app [here](https://yogaflex.netlify.app/).
 
-<img width="1440" alt="Screenshot 2023-12-19 at 4 34 55 PM" src="https://github.com/nisheetkaran/YogaFlex/assets/77787531/8003c551-236a-4345-877a-2d12f864df41">
+## Screenshots
 
-## ER DIAGRAM
-![WhatsApp Image 2023-12-18 at 2 59 42 AM](https://github.com/nisheetkaran/YogaFlex/assets/77787531/00fb4867-bf40-401c-ad78-7f10206679e1)
+### Yogaflex App
+![Yogaflex App](https://github.com/nisheetkaran/YogaFlex/assets/77787531/8003c551-236a-4345-877a-2d12f864df41)
+
+### ER Diagram
+![ER Diagram](https://github.com/nisheetkaran/YogaFlex/assets/77787531/00fb4867-bf40-401c-ad78-7f10206679e1)
+
+## Node.js Server Setup
+
+To run the Node.js server locally:
+
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the server directory (`server/`) in your terminal.
+3. Install Node.js dependencies: `npm install`
+4. Start the Node.js server: `npm start`
+
+This will start the server at a specific port (e.g., `http://localhost:3001`) to handle form submissions and processing.
