@@ -26,4 +26,5 @@ To use the app locally:
 
 Alternatively, you can access the hosted version of the app [here](https://yogaflex.netlify.app/).
 
-![Yogaflex App]("https://i.ibb.co/JKnYmx6/Screenshot-2023-12-19-at-4-34-55-PM.png")
+<img width="1440" alt="Screenshot 2023-12-19 at 4 34 55 PM" src="https://github.com/nisheetkaran/YogaFlex/assets/77787531/8003c551-236a-4345-877a-2d12f864df41">
+
