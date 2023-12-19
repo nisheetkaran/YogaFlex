@@ -5,7 +5,7 @@ Welcome to Yogaflex - the Yoga Class Enrollment App! This application allows use
 ## Features
 
 - **Form Input Fields:** Collects essential information like name, age, email, selected batch, payment information, and the month of enrollment.
-- **Validation:** Validates age input to ensure it falls within the acceptable range of 18 to 65 years.
+- **Validation:** Validates age input to ensure it falls within the acceptable range of 18 to 65 years. Along with that we are also checking if the amount paid is 500rs or not!
 - **Submission:** Sends enrollment data securely to a server for processing and displays success or failure alerts accordingly.
 
 ## Technologies Used
